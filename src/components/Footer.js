@@ -1,5 +1,5 @@
 import React from 'react'
-import loadingGif from '../images/gif/loading-color.gif'
+
 
 function Footer() {
     return (
